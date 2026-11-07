@@ -67,10 +67,9 @@
 
 | Technology   | Total Projects |
 |--------------|----------------|
-| Python       | 6              |
-| JavaScript   | 5              |
-| TypeScript   | 3              |
+| Python       | 3             |
+| JavaScript   | 3           |
+| TypeScript   | 1             |
 | Go           | 3              |
 | PHP          | 2              |
 | PostgreSQL   | 4              |
-| Python     | 6              |
