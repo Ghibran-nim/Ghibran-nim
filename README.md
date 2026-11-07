@@ -22,7 +22,7 @@
 ```
 
 <h1 align="center">
-  PV's personal project
+  Ghibran's personal project
 </h1>
 <h3 align="center">
   <b>Latest project : 8 days ago </b>
