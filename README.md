@@ -25,7 +25,7 @@
   Ghibran's personal project
 </h1>
 <h3 align="center">
-  <b>Latest project : 8 days ago </b>
+  <b>Latest project : 2 days ago </b>
 </h3>
 - Currently study machine learning and building software systems
   
